@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning C# and Kubernetes
 
-- 🐱‍💻 Main languages: JavaScript and TypeScript 
+- 🏆 Main languages: JavaScript and TypeScript 
 
 - ⚡ Fun fact: I hardly ever drink coffee
 
