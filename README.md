@@ -4,7 +4,7 @@
 
 <br/>
 
-## <div align="center">I'm Ian, a junior full-stack developer! 😄
+## <div align="center"> 😄 I'm Ian, a junior full-stack developer! 
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 <br/>
 
-## <div align="center"> GitHub Stats
+## <div align="center"> 📊 GitHub Stats 
 </div>
 
 <br/>
@@ -29,7 +29,7 @@
 
 <br/>
 
-## <div align="center"> Connect with me  
+## <div align="center"> 😅 Connect with me 
 
 <div/>
 
@@ -49,7 +49,7 @@
 <a href="https://instagram.com/ianbandrade" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/ianbandrade" target="_blank">
+<a href="https://stackoverflow.com/users/13660060" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/ianbandrade" target="_blank">
