@@ -18,7 +18,7 @@
 
 <br/>
 
-## <div align="center"> Github Stats
+## <div align="center"> GitHub Stats
 </div>
 
 <br/>
