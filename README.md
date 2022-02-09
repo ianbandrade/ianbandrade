@@ -4,7 +4,7 @@
 
 - 🔭 I'm not currently working on a project
 
-- 🌱 I'm currently improving `Node.js` development
+- 💡 I'm currently learning about clean code principles, based in `C#`
 
 - 🏆 Main languages: `.js` and `.ts`
 
