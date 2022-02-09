@@ -1,6 +1,6 @@
 ## Hi there 👋🏽
 
-### I'm Ian, a full-stack developer
+### I'm Ian, a full-stack software engineer  
 
 - 🔭 I'm not currently working on a project
 
