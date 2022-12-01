@@ -1,12 +1,12 @@
 ## Hi there 👋🏽
 
-### I'm Ian, a full-stack software engineer  
+### I'm Ian, a full stack Software Engineer   
 
 - 🔭 I'm not currently working on a project
 
-- 💡 I'm currently learning about clean code principles, based in `C#`
+- 💡 I'm currently learning about `.go`
 
-- 🏆 Main languages: `.js` and `.ts`
+- 🏆 Main languages: `.js`/`.ts` and `.cs`
 
 - ⚡ Fun fact: I hardly ever drink coffee
 
