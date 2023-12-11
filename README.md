@@ -1,10 +1,10 @@
 ## Hey there \o/
 
-### I'm Ian, and I work as Software Engineer focusing on Chatbot development 
+### My name is Ian and I work as a Software Engineer focusing on producing innovative products 
 
 - 🔭 I'm currently working on LinkedIn posts
 
-- 💡 I'm currently learning about best programming practices and softwares architectures
+- 💡 I'm currently learning about data science
 
 - 🏆 Main languages: `.js`/`.ts` and `.cs`
 
