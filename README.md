@@ -2,9 +2,9 @@
 
 ### My name is Ian and I work as a Software Engineer focusing on producing innovative products 
 
-- 🔭 I'm currently working on LinkedIn posts
+- 🔭 I'm currently working on AI projects (ML)
 
-- 💡 I'm currently learning about data science
+- 💡 I'm currently learning about AI and ML
 
 - 🏆 Main languages: `.js`/`.ts` and `.cs`
 
