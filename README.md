@@ -6,7 +6,7 @@ I’m an expert in designing and developing scalable and high-performance conver
 
 My day-to-day involves bringing together deep technical knowledge and product-oriented thinking to turn cutting-edge research into practical, production-ready AI solutions.
 
-### More about me :D 
+### More about me 
 
 - 🔭 I'm currently working on AI projects (ML)
 
